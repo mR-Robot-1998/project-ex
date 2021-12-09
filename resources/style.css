@@ -1,0 +1,55 @@
+body{
+    background: #000;
+}
+header > h1{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+header > a {
+    margin-left: 765px;
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.mobile-view{
+    margin-left: 700px;
+    margin-top: 24px;
+}
+.imag-view{
+    text-align: center;
+    margin-left: 30px;
+    color: white;
+}
+.imag-view > h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+.imag-view > h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+.mobile-icon > img{
+    margin-left: 900px;
+    margin-top: 25px;
+}
+.mobile-icon > h1{
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+.mobile-icon > a {
+    margin-left: 800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+}
+footer > h2{
+    text-align: right;
+    color: gray;
+
+}
